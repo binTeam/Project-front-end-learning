@@ -1,2 +1,3 @@
 # Project-front-end-learning
-The front-end study
+【1】The front-end study
+【2】The index.html create
